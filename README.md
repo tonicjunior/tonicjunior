@@ -92,7 +92,7 @@
   <blockquote>
     Desenvolvimento de um jogo de tabuleiro online e estratégico, com foco em performance de rede e jogabilidade fluida para múltiplos jogadores.
   </blockquote>
-  <p><strong>Stack:</strong> C#, .NET, WebSockets.</p>
+  <p><strong>Stack:</strong> HTML5, CSS3, JAVASCRIPT, PEERJS</p>
   <p><a href="https://github.com/tonicjunior/BoardToim">🔗 Ver Repositório</a></p>
 </details>
 
