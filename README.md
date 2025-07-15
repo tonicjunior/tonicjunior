@@ -13,7 +13,7 @@
       <p> Atualmente, como  <strong>Desenvolvedor na GFT Technologies</strong>, aplico minhas habilidades para construir soluções robustas e impactantes, transformando código em valor real.</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" alt="Loading...">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Loading...">
     </td>
   </tr>
 </table>
