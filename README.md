@@ -1,5 +1,5 @@
 <h1 align="center">
-  🔹 Antonio Mota — Player 1: tonicjunior
+  🔹🔹🔹🔹 Antonio Mota 🔹🔹🔹🔹
 </h1>
 
 <p align="center">
