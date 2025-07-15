@@ -17,9 +17,6 @@
     </td>
   </tr>
 </table>
-<div align="center">
-  <img src="https://img.shields.io/badge/Localização-Palmas, TO, Brazil-blue?style=flat-square&logo=googlemaps" alt="Localização"> 
-</div>
 
 ---
 
