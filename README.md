@@ -1,5 +1,5 @@
 <h1 align="center">
-  🔹🔹🔹🔹 Antonio Mota 🔹🔹🔹🔹
+  🔹 Antonio Mota 🔹
 </h1>
 
 <p align="center">
