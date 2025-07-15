@@ -30,6 +30,8 @@
     <a href="#"><img src="https://img.shields.io/badge/ASP.NET Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Entity_Framework-B474A3?style=for-the-badge&logo=nuget&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/API_REST-027A72?style=for-the-badge&logo=api-platform&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/API_SOAP-0081C9?style=for-the-badge&logo=w3c&logoColor=white"></a>
   </p>
@@ -52,7 +54,7 @@
   <summary><strong>Testes de Software</strong></summary>
   <p align="left">
     <a href="#"><img src="https://img.shields.io/badge/TDD-A9312A?style=for-the-badge&logo=testinglibrary&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/xUnit-89C541?style=for-the-badge&logo=xamarin&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/xUnit-89C541?style=for-the-badge&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Karma-56C5A8?style=for-the-badge&logo=karma&logoColor=white"></a>
   </p>
@@ -67,6 +69,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"></a>
   </p>
 </details>
 
