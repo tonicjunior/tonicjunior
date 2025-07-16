@@ -4,19 +4,14 @@
   <sub>Dev. Full Stack | Game Enthusiast | Digital Worldbuilder</sub>
 </h1>
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h3>▶️ Sobre Mim</h3>
-       <p>Minha jornada no universo da tecnologia começou com um   <strong>Técnico em Informática</strong> pelo  <strong>IFTO</strong>, evoluindo para uma especialização em  <strong>Ciência da Computação</strong> no  <strong>CEULP/ULBRA</strong>.</p>
-       <p>Desde o início, minha paixão era criar. Forjei mais de   <strong>12 projetos com Arduino</strong>, participei de  <strong>hackathons</strong>, desenvolvi  <strong>jogos</strong> e mergulhei de cabeça no ecossistema de  <strong>startups</strong>.</p>
-      <p> Atualmente, como  <strong>Desenvolvedor na GFT Technologies</strong>, aplico minhas habilidades para construir soluções robustas e impactantes, transformando código em valor real.</p>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Loading...">
-    </td>
-  </tr>
-</table>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" alt="Loading..." align="right">
+
+<h3>▶️ Sobre Mim</h3>
+<p>Minha jornada no universo da tecnologia começou com um <strong>Técnico em Informática</strong> pelo <strong>IFTO</strong>, evoluindo para uma especialização em <strong>Ciência da Computação</strong> no <strong>CEULP/ULBRA</strong>.</p>
+<p>Desde o início, minha paixão era criar. Forjei mais de <strong>12 projetos com Arduino</strong>, participei de <strong>hackathons</strong>, desenvolvi <strong>jogos</strong> e mergulhei de cabeça no ecossistema de <strong>startups</strong>.</p>
+<p>Atualmente, como <strong>Desenvolvedor na GFT Technologies</strong>, aplico minhas habilidades para construir soluções robustas e impactantes, transformando código em valor real.</p>
+
+<div style="clear: both;"></div>
 
 ---
 
